@@ -1,0 +1,15 @@
+Age,Job_Type,Income_Level,Credit_History,Loan_Amount,Loan_Approved
+Young,Salaried,Low,Bad,Low,No
+Senior,Salaried,Low,Bad,High,No
+Young,Self_Employed,Low,Bad,Low,Yes
+Young,UnEmployed,Medium,Bad,Medium,Yes
+Senior,UnEmployed,High,Good,Low,Yes
+Middle_Aged,UnEmployed,High,Good,High,No
+Young,Self_Employed,High,Good,High,Yes
+Middle_Aged,Salaried,Medium,Bad,Medium,No
+Young,Salaried,High,Good,Medium,Yes
+Young,UnEmployed,Medium,Good,Low,Yes
+Senior,Salaried,Medium,Good,High,Yes
+Young,Self_Employed,Medium,Bad,High,Yes
+Young,Self_Employed,High,Good,Low,Yes
+Middle_Aged,UnEmployed,Medium,Bad,High,No
